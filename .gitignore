@@ -1,0 +1,11 @@
+.DS_Store
+.bundle
+
+**/xcuserdata
+*.pbxuser
+*.mode1v3
+
+Pods/
+
+*.ipa
+*.dSYM.zip
